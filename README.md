@@ -7,7 +7,8 @@
 ## <img src="./images/pakmangames.png" alt="gif" width="18px"> About me
 <a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University" style=""></a>
 <br>
-I aspire to solve real-life problems and make the world a better place through the code I write.
+Aspiring full-stack software engineer, eager to develop solutions to problems.  
+I am passionate about web development, digital solutions, challenges, and opportunities.  
 
 ---
 
@@ -34,6 +35,14 @@ I aspire to solve real-life problems and make the world a better place through t
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/css3-original.svg" width="50px" height="50px" alt="CSS3">
             </td>
+        </tr>
+        <tr align="center">
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/react-original.svg" width="50px" height="50px" alt="React">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/c-original.svg" width="50px" height="50px" alt="C">
+            </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/git-original.svg" width="50px" height="50px" alt="git">
             </td>
@@ -42,6 +51,9 @@ I aspire to solve real-life problems and make the world a better place through t
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/vscode-original.svg" width="50px" height="50px" alt="vscode">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/bash-original.svg" width="50px" height="50px" alt="Bash">
             </td>
         </tr>
     </table>
