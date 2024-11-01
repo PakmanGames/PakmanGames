@@ -6,10 +6,13 @@
 
 ## <img src="./images/pakmangames.png" alt="gif" width="18px"> About me
 <div align="center">
-    <a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University" style=""></a>
+    <a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University"></a>
     <br>
-    Aspiring full-stack software engineer, eager to develop solutions to problems.
-    I am passionate about web development, digital solutions, challenges, and opportunities.
+    Hey! I'm currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.
+    I am an aspiring full-stack software engineer, eager to develop solutions to problems.
+    I have a passion for web development, digital solutions, challenges, hackathons, and opportunities.
+    <br>
+    Feel free to <a href="https://www.linkedin.com/in/andy-pak/">connect</a> with me!
 </div>
 
 ---
@@ -37,10 +40,22 @@
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/css3-original.svg" width="50px" height="50px" alt="CSS3">
             </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/nodejs-original-wordmark.svg" width="50px" height="50px" alt="Node.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/npm-original-wordmark.svg" width="50px" height="50px" alt="NPM">
+            </td>
         </tr>
         <tr align="center">
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/react-original.svg" width="50px" height="50px" alt="React">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/nextjs-original.svg" width="50px" height="50px" alt="Next.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/vitejs-original.svg" width="50px" height="50px" alt="Vite">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/c-original.svg" width="50px" height="50px" alt="C">
