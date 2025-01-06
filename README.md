@@ -40,10 +40,7 @@
                 <img src="./images/icons/css3-original.svg" width="50px" height="50px" alt="CSS3">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/nodejs-original-wordmark.svg" width="50px" height="50px" alt="Node.js">
-            </td>
-            <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/npm-original-wordmark.svg" width="50px" height="50px" alt="NPM">
+                <img src="./images/icons/github-original.svg" width="50px" height="50px" alt="GitHub">
             </td>
         </tr>
         <tr align="center">
@@ -54,16 +51,36 @@
                 <img src="./images/icons/nextjs-original.svg" width="50px" height="50px" alt="Next.js">
             </td>
             <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/tailwindcss-original.svg" width="50px" height="50px" alt="Tailwind CSS">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/express-original.svg" width="50px" height="50px" alt="Express.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/nodejs-original-wordmark.svg" width="50px" height="50px" alt="Node.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/npm-original-wordmark.svg" width="50px" height="50px" alt="NPM">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/git-original.svg" width="50px" height="50px" alt="git">
+            </td>
+        </tr>
+        <tr align="center">
+        <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/vitejs-original.svg" width="50px" height="50px" alt="Vite">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/linux-original.svg" width="50px" height="50px" alt="Linux">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/c-original.svg" width="50px" height="50px" alt="C">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/git-original.svg" width="50px" height="50px" alt="git">
+                <img src="./images/icons/sqlite-original.svg" width="50px" height="50px" alt="SQLite">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/github-original.svg" width="50px" height="50px" alt="GitHub">
+                <img src="./images/icons/mysql-original.svg" width="50px" height="50px" alt="MySQL">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/vscode-original.svg" width="50px" height="50px" alt="vscode">
