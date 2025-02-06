@@ -11,6 +11,7 @@
     <div>I am a full-stack software engineer, eager to develop solutions to problems.</div>
     <div>I'm currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.</div>
     <div>I have a passion for web development, digital solutions, challenges, hackathons, and opportunities.</div>
+    <div>I am currently seeking <strong>Summer 2026</strong> Internships or Co-ops.</div>
     <div>Feel free to <a href="https://www.linkedin.com/in/andy-pak/">connect</a> with me!</div>
 </div>
 
