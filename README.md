@@ -106,5 +106,4 @@
 <a href="https://andypak.me/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white" height="35px" alt="Portfolio"></a>
 <a href="https://devpost.com/PakmanGames" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" height="35px" alt="Devpost"></a>
 <a href="https://leetcode.com/u/PakmanGames/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35px" alt="LeetCode"></a>
-
-<img src="https://komarev.com/ghpvc/?username=PakmanGames&style=pixel&color=533480">
+<a href="https://github.com/PakmanGames"><img src="https://komarev.com/ghpvc/?username=PakmanGames&style=pixel&color=533480"></a>
