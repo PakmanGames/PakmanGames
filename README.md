@@ -35,13 +35,13 @@
                 <img src="./images/icons/javascript-original.svg" width="50px" height="50px" alt="JavaScript">
             </td>
             <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/typescript-original.svg" width="50px" height="50px" alt="TypeScript">
+            </td>
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/html5-original.svg" width="50px" height="50px" alt="HTML5">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/css3-original.svg" width="50px" height="50px" alt="CSS3">
-            </td>
-            <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/github-original.svg" width="50px" height="50px" alt="GitHub">
+                <img src="./images/icons/new-css3-original.svg" width="50px" height="50px" alt="CSS3">
             </td>
         </tr>
         <tr align="center">
@@ -78,7 +78,7 @@
                 <img src="./images/icons/c-original.svg" width="50px" height="50px" alt="C">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/sqlite-original.svg" width="50px" height="50px" alt="SQLite">
+                <img src="./images/icons/supabase-original.svg" width="50px" height="50px" alt="Supabase">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/mysql-original.svg" width="50px" height="50px" alt="MySQL">
@@ -87,7 +87,7 @@
                 <img src="./images/icons/vscode-original.svg" width="50px" height="50px" alt="vscode">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/bash-original.svg" width="50px" height="50px" alt="Bash">
+                <img src="./images/icons/github-original.svg" width="50px" height="50px" alt="GitHub">
             </td>
         </tr>
     </table>
