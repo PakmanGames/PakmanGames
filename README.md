@@ -1,9 +1,6 @@
 # PakmanGames
-<p align="center">
-  <img src="./images/suiseitalala.gif" alt="talalala" width="150px" />
-  <img src="./images/s;g.gif" alt="gif" width="400px" />
-  <img src="./images/suiseiwave.gif" alt="talalala" width="150px" />
-</p>
+
+<div align="center"><img src="./images/s;g.gif" alt="gif" width="500px"></div>
 
 ---
 
@@ -105,8 +102,12 @@
 
 ## 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/andy-pak/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px" alt="LinkedIn"></a>
-<a href="https://andypak.me/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=protondrive&logoColor=white" height="35px" alt="Portfolio"></a>
+<p align="center">
+  <img src="./images/suiseitalala.gif" alt="talalala" width="100px" />
+  <a href="https://www.linkedin.com/in/andy-pak/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px" alt="LinkedIn"></a>
+<a href="https://andypak.me/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=protondrive&logoColor=white" height="35px" alt="Portfolio"></a>
 <a href="https://devpost.com/PakmanGames" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" height="35px" alt="Devpost"></a>
 <a href="https://leetcode.com/u/PakmanGames/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35px" alt="LeetCode"></a>
 <a href="https://github.com/PakmanGames"><img src="https://komarev.com/ghpvc/?username=PakmanGames&style=pixel&color=533480"></a>
+  <img src="./images/suiseiwave.gif" alt="talalala" width="100px" />
+</p>
