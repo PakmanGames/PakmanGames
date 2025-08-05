@@ -1,6 +1,9 @@
 # PakmanGames
-
-<div align="center"><img src="./images/s;g.gif" alt="gif" width="500px"></div>
+<p align="center">
+  <img src="./images/suiseitalala.gif" alt="talalala" width="150px" />
+  <img src="./images/s;g.gif" alt="gif" width="400px" />
+  <img src="./images/suiseiwave.gif" alt="talalala" width="150px" />
+</p>
 
 ---
 
